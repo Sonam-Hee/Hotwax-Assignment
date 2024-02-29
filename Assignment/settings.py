@@ -90,9 +90,9 @@ WSGI_APPLICATION = 'Assignment.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Hotwax',
-        'USER': 'root',
-        'PASSWORD': 'Sonam@123',
+        'NAME': 'name',
+        'USER': 'user',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '3306' 
     }
